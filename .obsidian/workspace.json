@@ -102,9 +102,23 @@
               "icon": "lucide-file-text",
               "title": "CoolWalks for active mobility in urban street networks"
             }
+          },
+          {
+            "id": "65428a1e607455a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - Rough Notes/qwer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "qwer"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -258,13 +272,15 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "templater-obsidian:Templater": false,
-      "terminal:Open terminal": false
+      "terminal:Open terminal": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7db243c38406b94d",
+  "active": "65428a1e607455a4",
   "lastOpenFiles": [
-    "2 - Source Material/Papers/Mitigating Heat Stress by Reducing Solar Exposure in Pedestrian Routing.pdf",
     "2 - Source Material/Papers/CoolWalks for active mobility in urban street networks.pdf",
+    "1 - Rough Notes/qwer.md",
+    "2 - Source Material/Papers/Mitigating Heat Stress by Reducing Solar Exposure in Pedestrian Routing.pdf",
     "5 - Templates/Concepts.md",
     "5 - Templates/Paper Note Taking.md",
     "5 - Templates/Weekly.md",
